@@ -1,0 +1,2 @@
+This clears the contents of the file, and adds this string
+this is added to the file without rewriting
